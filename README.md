@@ -20,8 +20,11 @@ Our project, built upon a dataset from the UC Irvine Machine Learning Repository
 # Credits:
 
 This notebook is created by Connect X AI team.
+
+
+
 Directed by:
-AI team director Ammar Thabet
+* AI team director Ammar Thabet
 
 Team leader:
 - Mazin mahmoud
