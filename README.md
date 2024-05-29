@@ -27,7 +27,7 @@ Directed by:
 * AI team director Ammar Thabet
 
 Team leader:
-- Mazin mahmoud
+- [MazinMahmoud](https://github.com/MazinMahmoud)
 
 Team members:
 - Nadine Elkady
